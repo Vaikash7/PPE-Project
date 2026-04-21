@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+runs/
+*.pt
+dataset/
+dataset_clean/
+dataset_small/
+dataset_helmet_vest/
