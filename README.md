@@ -64,7 +64,7 @@ This project was developed as an academic research project and was **published i
 > 📄 **Research Paper:** Add your official IEEE Xplore paper link here.
 
 ```markdown
-[View Research Paper](https://ieeexplore.ieee.org/document/11518365)
+[View Research Paper] https://ieeexplore.ieee.org/document/11518365
 ```
 
 ---
